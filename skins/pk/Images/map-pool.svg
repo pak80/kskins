@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5e -->
+<!-- CreationDate: Mon Jan  9 19:06:06 2017 -->
+<!-- Magnification: 0.110 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="0.8in" height="0.6in"
+	viewBox="0 0 1024 768">
+<g style="stroke-width:.025in; fill:none">
+<!-- Line: box -->
+<rect x="0" y="0" width="1024" height="768" rx="0" 
+style="stroke:#000000;stroke-width:1;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffe0e0;
+"/>
+<!-- Circle -->
+<circle cx="396" cy="297" r="24"
+ style="fill:#0000ff;stroke:#0000ff;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="595" cy="297" r="24"
+ style="fill:#ff0000;stroke:#ff0000;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="793" cy="148" r="24"
+ style="fill:#ff0000;stroke:#ff0000;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="396" cy="446" r="24"
+ style="fill:#ff00ff;stroke:#ff00ff;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="198" cy="595" r="24"
+ style="fill:#ff00ff;stroke:#ff00ff;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="595" cy="446" r="24"
+ style="fill:#00ff00;stroke:#00ff00;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="793" cy="595" r="24"
+ style="fill:#00ff00;stroke:#00ff00;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="198" cy="148" r="24"
+ style="fill:#0000ff;stroke:#0000ff;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="297" cy="148" r="24"
+ style="fill:#0000ff;stroke:#0000ff;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="694" cy="148" r="24"
+ style="fill:#ff0000;stroke:#ff0000;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="694" cy="595" r="24"
+ style="fill:#00ff00;stroke:#00ff00;stroke-width:5;"/>
+<!-- Circle -->
+<circle cx="297" cy="595" r="24"
+ style="fill:#ff00ff;stroke:#ff00ff;stroke-width:5;"/>
+</g>
+</svg>

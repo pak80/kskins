@@ -1,0 +1,2993 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1923"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   width="1024"
+   height="768"
+   version="1.0"
+   sodipodi:docname="pool.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata1928">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1926">
+    <radialGradient
+       xlink:href="#linearGradientDiceNumber"
+       id="radialGradientDiceNumber"
+       fy="118.12441"
+       fx="340.00024"
+       r="22.204689"
+       cy="118.12441"
+       cx="340.00024"
+       gradientTransform="scale(1.1180352,0.8944262)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradientDice"
+       id="radialGradientDiceRight"
+       fy="93.898918"
+       fx="269.71582"
+       r="463.07532"
+       cy="93.898918"
+       cx="269.71582"
+       gradientTransform="scale(1.6641014,0.6009249)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradientDice"
+       id="radialGradientDiceFront"
+       fy="264.67676"
+       fx="214.78755"
+       r="198.64026"
+       cy="264.67676"
+       cx="214.78755"
+       gradientTransform="scale(1.4552139,0.6871842)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradientDice"
+       id="radialGradientDice"
+       fy="146.04716"
+       fx="330.64139"
+       r="134.37865"
+       cy="146.04716"
+       cx="330.64139"
+       gradientTransform="scale(1.0049754,0.9950492)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradientDice">
+      <stop
+         id="stop1LinearGradientDice"
+         offset="0"
+         style="stop-color:#f07f7f;stop-opacity:1" />
+      <stop
+         id="stop2LinearGradientDice"
+         offset="1"
+         style="stop-color:#620000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradientBlueDice">
+      <stop
+         style="stop-color:#707fff;stop-opacity:1"
+         offset="0"
+         id="stop2413" />
+      <stop
+         style="stop-color:#000062;stop-opacity:1"
+         offset="1"
+         id="stop2415" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradientDiceNumber">
+      <stop
+         id="stop580"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1.0000;" />
+      <stop
+         id="stop581"
+         offset="1"
+         style="stop-color:#656566;stop-opacity:1.0000;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="757"
+     inkscape:window-width="1587"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.75520833"
+     inkscape:cx="741.12509"
+     inkscape:cy="421.48122"
+     inkscape:window-x="110"
+     inkscape:window-y="205"
+     inkscape:current-layer="svg1923"
+     showgrid="false"
+     inkscape:window-maximized="0" />
+  <circle
+     cx="227.24754"
+     cy="1005.5931"
+     r="28.38822"
+     style="fill:#994e9f;stroke:#994e9f;stroke-width:0.53436649"
+     id="Alpha1" />
+  <circle
+     cx="189.37433"
+     cy="850.96088"
+     r="28.38822"
+     style="fill:#5e6783;stroke:#5e6783;stroke-width:0.53436649"
+     id="Alpha4" />
+  <circle
+     cx="151.5011"
+     cy="958.23492"
+     r="28.38822"
+     style="fill:#fa0c58;stroke:#fa0c58;stroke-width:0.53436649"
+     id="Alpha2" />
+  <circle
+     cx="116.83408"
+     cy="891.97345"
+     r="28.38822"
+     style="fill:#f7e1af;stroke:#f7e1af;stroke-width:0.53436649"
+     id="Alpha3"
+     inkscape:label="#Alpha3" />
+  <circle
+     cx="378.74045"
+     cy="1002.387"
+     r="28.38822"
+     style="fill:#363d60;stroke:#363d60;stroke-width:0.53436649"
+     id="Beta1" />
+  <circle
+     cx="512.86646"
+     cy="951.88934"
+     r="28.38822"
+     style="fill:#0b9ae5;stroke:#0b9ae5;stroke-width:0.53436649"
+     id="Beta2" />
+  <circle
+     cx="678.52002"
+     cy="951.88934"
+     r="28.38822"
+     style="fill:#64a8a6;stroke:#64a8a6;stroke-width:0.53436649"
+     id="Beta3" />
+  <circle
+     cx="757.40588"
+     cy="1150.7405"
+     r="28.38822"
+     style="fill:#60bea1;stroke:#60bea1;stroke-width:0.53436649"
+     id="circle4389" />
+  <circle
+     cx="407.12866"
+     cy="1097.1034"
+     r="28.38822"
+     style="fill:#93b0a3;stroke:#93b0a3;stroke-width:0.53436649"
+     id="Camma1" />
+  <circle
+     cx="512.86646"
+     cy="1157.0193"
+     r="28.38822"
+     style="fill:#20279c;stroke:#20279c;stroke-width:0.53436649"
+     id="circle4393" />
+  <circle
+     cx="678.52002"
+     cy="1273.7783"
+     r="28.38822"
+     style="fill:#32fa07;stroke:#32fa07;stroke-width:0.53436649"
+     id="circle4395" />
+  <circle
+     cx="129.45848"
+     cy="1122.3522"
+     r="28.38822"
+     style="fill:#b8e6b0;stroke:#b8e6b0;stroke-width:0.53436649"
+     id="circle4397" />
+  <circle
+     cx="85.239655"
+     cy="1175.9893"
+     r="28.38822"
+     style="fill:#629713;stroke:#629713;stroke-width:0.53436649"
+     id="circle4399" />
+  <circle
+     cx="227.24754"
+     cy="1084.479"
+     r="28.38822"
+     style="fill:#798fc7;stroke:#798fc7;stroke-width:0.53436649"
+     id="Delta1" />
+  <g
+     id="map"
+     style="fill:none;stroke-width:0.025in"
+     transform="matrix(0.06660844,0,0,0.06660844,0.51100996,0.40199996)">
+    <!-- Line: box -->
+    <rect
+       id="rect4475"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="0"
+       height="11518"
+       width="15358"
+       y="0"
+       x="0" />
+    <!-- Line: box -->
+    <rect
+       id="rect4477"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="0"
+       height="11518"
+       width="15358"
+       y="0"
+       x="0" />
+    <!-- Circle -->
+    <circle
+       id="circle4479"
+       style="fill:#263b93;stroke:#263b93;stroke-width:8"
+       r="425"
+       cy="3874"
+       cx="6755" />
+    <!-- Circle -->
+    <circle
+       id="circle4481"
+       style="fill:#08de3e;stroke:#08de3e;stroke-width:8"
+       r="425"
+       cy="3307"
+       cx="5622" />
+    <!-- Circle -->
+    <circle
+       id="circle4483"
+       style="fill:#5a9a11;stroke:#5a9a11;stroke-width:8"
+       r="425"
+       cy="4535"
+       cx="7653" />
+    <!-- Circle -->
+    <circle
+       id="circle4485"
+       style="fill:#0bf6b0;stroke:#0bf6b0;stroke-width:8"
+       r="425"
+       cy="3590"
+       cx="8267" />
+    <!-- Circle -->
+    <circle
+       id="circle4487"
+       style="fill:#2ec89d;stroke:#2ec89d;stroke-width:8"
+       r="425"
+       cy="2551"
+       cx="8173" />
+    <!-- Circle -->
+    <circle
+       id="circle4489"
+       style="fill:#24d19d;stroke:#24d19d;stroke-width:8"
+       r="425"
+       cy="4110"
+       cx="9118" />
+    <!-- Circle -->
+    <circle
+       id="circle4491"
+       style="fill:#6696e4;stroke:#6696e4;stroke-width:8"
+       r="425"
+       cy="3590"
+       cx="10582" />
+    <!-- Circle -->
+    <circle
+       id="circle4493"
+       style="fill:#10e4af;stroke:#10e4af;stroke-width:8"
+       r="425"
+       cy="1748"
+       cx="708" />
+    <!-- Circle -->
+    <circle
+       id="circle4495"
+       style="fill:#d5efa0;stroke:#d5efa0;stroke-width:8"
+       r="425"
+       cy="3732"
+       cx="1559" />
+    <!-- Circle -->
+    <circle
+       id="circle4497"
+       style="fill:#c79c9b;stroke:#c79c9b;stroke-width:8"
+       r="425"
+       cy="5196"
+       cx="1464" />
+    <!-- Circle -->
+    <circle
+       id="circle4499"
+       style="fill:#09f7e7;stroke:#09f7e7;stroke-width:8"
+       r="425"
+       cy="5007"
+       cx="3732" />
+    <!-- Circle -->
+    <circle
+       id="circle4501"
+       style="fill:#d39291;stroke:#d39291;stroke-width:8"
+       r="425"
+       cy="2787"
+       cx="4582" />
+    <!-- Circle -->
+    <circle
+       id="circle4503"
+       style="fill:#3a2ca8;stroke:#3a2ca8;stroke-width:8"
+       r="425"
+       cy="4015"
+       cx="3496" />
+    <!-- Circle -->
+    <circle
+       id="circle4505"
+       style="fill:#a0697f;stroke:#a0697f;stroke-width:8"
+       r="425"
+       cy="2834"
+       cx="2551" />
+    <!-- Circle -->
+    <circle
+       id="circle4507"
+       style="fill:#f26ae5;stroke:#f26ae5;stroke-width:8"
+       r="425"
+       cy="6236"
+       cx="1417" />
+    <!-- Circle -->
+    <circle
+       id="circle4509"
+       style="fill:#0772fa;stroke:#0772fa;stroke-width:8"
+       r="425"
+       cy="7228"
+       cx="1842" />
+    <!-- Circle -->
+    <circle
+       id="circle4511"
+       style="fill:#950130;stroke:#950130;stroke-width:8"
+       r="425"
+       cy="7511"
+       cx="3590" />
+    <!-- Circle -->
+    <circle
+       id="circle4513"
+       style="fill:#73d217;stroke:#73d217;stroke-width:8"
+       r="425"
+       cy="8645"
+       cx="2314" />
+    <!-- Circle -->
+    <circle
+       id="circle4515"
+       style="fill:#209b00;stroke:#209b00;stroke-width:8"
+       r="425"
+       cy="10062"
+       cx="1937" />
+    <!-- Circle -->
+    <circle
+       id="circle4517"
+       style="fill:#2b1ae5;stroke:#2b1ae5;stroke-width:8"
+       r="425"
+       cy="7039"
+       cx="6188" />
+    <!-- Circle -->
+    <circle
+       id="circle4519"
+       style="fill:#fe8336;stroke:#fe8336;stroke-width:8"
+       r="425"
+       cy="6047"
+       cx="6330" />
+    <!-- Circle -->
+    <circle
+       id="circle4521"
+       style="fill:#cd8d6a;stroke:#cd8d6a;stroke-width:8"
+       r="425"
+       cy="6236"
+       cx="7842" />
+    <!-- Circle -->
+    <circle
+       id="circle4523"
+       style="fill:#5e35d7;stroke:#5e35d7;stroke-width:8"
+       r="425"
+       cy="7889"
+       cx="7228" />
+    <!-- Circle -->
+    <circle
+       id="circle4525"
+       style="fill:#3bdf1f;stroke:#3bdf1f;stroke-width:8"
+       r="425"
+       cy="8834"
+       cx="6897" />
+    <!-- Circle -->
+    <circle
+       id="circle4527"
+       style="fill:#d044dd;stroke:#d044dd;stroke-width:8"
+       r="425"
+       cy="10015"
+       cx="6944" />
+    <!-- Circle -->
+    <circle
+       id="circle4529"
+       style="fill:#034617;stroke:#034617;stroke-width:8"
+       r="425"
+       cy="9354"
+       cx="8787" />
+    <!-- Circle -->
+    <circle
+       id="circle4531"
+       style="fill:#d6e70c;stroke:#d6e70c;stroke-width:8"
+       r="425"
+       cy="6377"
+       cx="8834" />
+    <!-- Circle -->
+    <circle
+       id="circle4533"
+       style="fill:#30d0ff;stroke:#30d0ff;stroke-width:8"
+       r="425"
+       cy="5574"
+       cx="9401" />
+    <!-- Circle -->
+    <circle
+       id="circle4535"
+       style="fill:#17f86c;stroke:#17f86c;stroke-width:8"
+       r="425"
+       cy="5055"
+       cx="10440" />
+    <!-- Circle -->
+    <circle
+       id="circle4537"
+       style="fill:#bdafbc;stroke:#bdafbc;stroke-width:8"
+       r="425"
+       cy="4582"
+       cx="11622" />
+    <!-- Circle -->
+    <circle
+       id="circle4539"
+       style="fill:#41fd45;stroke:#41fd45;stroke-width:8"
+       r="425"
+       cy="6377"
+       cx="11196" />
+    <!-- Circle -->
+    <circle
+       id="circle4541"
+       style="fill:#9c0802;stroke:#9c0802;stroke-width:8"
+       r="425"
+       cy="3874"
+       cx="13086" />
+    <!-- Circle -->
+    <circle
+       id="circle4543"
+       style="fill:#1c6f69;stroke:#1c6f69;stroke-width:8"
+       r="425"
+       cy="3212"
+       cx="14314" />
+    <!-- Circle -->
+    <circle
+       id="circle4545"
+       style="fill:#b1661c;stroke:#b1661c;stroke-width:8"
+       r="425"
+       cy="5385"
+       cx="12944" />
+    <!-- Circle -->
+    <circle
+       id="circle4547"
+       style="fill:#4473cd;stroke:#4473cd;stroke-width:8"
+       r="425"
+       cy="2787"
+       cx="12330" />
+    <!-- Circle -->
+    <circle
+       id="circle4549"
+       style="fill:#82c2e6;stroke:#82c2e6;stroke-width:8"
+       r="425"
+       cy="1606"
+       cx="12283" />
+    <!-- Circle -->
+    <circle
+       id="circle4551"
+       style="fill:#be4719;stroke:#be4719;stroke-width:8"
+       r="425"
+       cy="2598"
+       cx="10251" />
+    <!-- Circle -->
+    <circle
+       id="circle4553"
+       style="fill:#29fe15;stroke:#29fe15;stroke-width:8"
+       r="425"
+       cy="6425"
+       cx="13464" />
+    <!-- Circle -->
+    <circle
+       id="circle4555"
+       style="fill:#8afbbe;stroke:#8afbbe;stroke-width:8"
+       r="425"
+       cy="7370"
+       cx="13984" />
+    <!-- Circle -->
+    <circle
+       id="circle4557"
+       style="fill:#2ba1d8;stroke:#2ba1d8;stroke-width:8"
+       r="425"
+       cy="8078"
+       cx="12566" />
+    <!-- Circle -->
+    <circle
+       id="circle4559"
+       style="fill:#f7db45;stroke:#f7db45;stroke-width:8"
+       r="425"
+       cy="8409"
+       cx="13700" />
+    <!-- Circle -->
+    <circle
+       id="circle4561"
+       style="fill:#a0703c;stroke:#a0703c;stroke-width:8"
+       r="425"
+       cy="9685"
+       cx="14362" />
+    <!-- Line -->
+    <polyline
+       id="polyline4563"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6755,3874 5846,3418 " />
+    <!-- Arrowhead on XXXpoint 6755 3874 - 5565 3278-->
+    <polygon
+       id="polygon4565"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="5842,3311 5575,3283 5758,3480 5842,3311 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4567"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6755,3874 7450,4386 " />
+    <!-- Arrowhead on XXXpoint 6755 3874 - 7703 4572-->
+    <polygon
+       id="polygon4569"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7435,4491 7694,4564 7547,4339 7435,4491 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4571"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6755,3874 8019,3635 " />
+    <!-- Arrowhead on XXXpoint 6755 3874 - 8328 3577-->
+    <polygon
+       id="polygon4573"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8086,3718 8317,3580 8051,3532 8086,3718 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4575"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5622,3307 6530,3761 " />
+    <!-- Arrowhead on XXXpoint 5622 3307 - 6811 3901-->
+    <polygon
+       id="polygon4577"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6533,3867 6801,3896 6617,3698 6533,3867 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4579"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5622,3307 4807,2898 " />
+    <!-- Arrowhead on XXXpoint 5622 3307 - 4525 2759-->
+    <polygon
+       id="polygon4581"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="4803,2791 4536,2764 4719,2960 4803,2791 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4583"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7653,4535 6957,4022 " />
+    <!-- Arrowhead on XXXpoint 7653 4535 - 6704 3836-->
+    <polygon
+       id="polygon4585"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6972,3916 6713,3843 6859,4068 6972,3916 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4587"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7653,4535 8130,3800 " />
+    <!-- Arrowhead on XXXpoint 7653 4535 - 8301 3537-->
+    <polygon
+       id="polygon4589"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8236,3808 8295,3546 8077,3706 8236,3808 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4591"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7653,4535 8876,4179 " />
+    <!-- Arrowhead on XXXpoint 7653 4535 - 9177 4092-->
+    <polygon
+       id="polygon4593"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8950,4256 9166,4095 8897,4074 8950,4256 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4595"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7653,4535 6495,5857 " />
+    <!-- Arrowhead on XXXpoint 7653 4535 - 6288 6094-->
+    <polygon
+       id="polygon4597"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6390,5834 6296,6086 6532,5958 6390,5834 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4599"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="8267,3590 7002,3827 " />
+    <!-- Arrowhead on XXXpoint 8267 3590 - 6693 3885-->
+    <polygon
+       id="polygon4601"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6935,3743 6705,3883 6970,3929 6935,3743 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4603"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="8267,3590 7790,4324 " />
+    <!-- Arrowhead on XXXpoint 8267 3590 - 7618 4587-->
+    <polygon
+       id="polygon4605"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7682,4314 7625,4578 7841,4417 7682,4314 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4607"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="8267,3590 8195,2801 " />
+    <!-- Arrowhead on XXXpoint 8267 3590 - 8166 2488-->
+    <polygon
+       id="polygon4609"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8284,2741 8167,2499 8096,2759 8284,2741 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4611"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="8267,3590 8902,3979 " />
+    <!-- Arrowhead on XXXpoint 8267 3590 - 9171 4142-->
+    <polygon
+       id="polygon4613"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8896,4085 9161,4136 8995,3924 8896,4085 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4615"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="8173,2551 8244,3339 " />
+    <!-- Arrowhead on XXXpoint 8173 2551 - 8272 3652-->
+    <polygon
+       id="polygon4617"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8154,3398 8271,3640 8342,3380 8154,3398 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4619"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="8173,2551 8987,3895 " />
+    <!-- Arrowhead on XXXpoint 8173 2551 - 9150 4163-->
+    <polygon
+       id="polygon4621"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8932,3986 9144,4153 9093,3888 8932,3986 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4623"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="9118,4110 7893,4465 " />
+    <!-- Arrowhead on XXXpoint 9118 4110 - 7592 4552-->
+    <polygon
+       id="polygon4625"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7819,4387 7604,4549 7871,4569 7819,4387 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4627"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="9118,4110 8481,3720 " />
+    <!-- Arrowhead on XXXpoint 9118 4110 - 8213 3556-->
+    <polygon
+       id="polygon4629"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8487,3613 8223,3563 8388,3774 8487,3613 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4631"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="9118,4110 8302,2765 " />
+    <!-- Arrowhead on XXXpoint 9118 4110 - 8139 2496-->
+    <polygon
+       id="polygon4633"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8356,2672 8145,2507 8195,2770 8356,2672 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4635"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="9118,4110 10345,3673 " />
+    <!-- Arrowhead on XXXpoint 9118 4110 - 10641 3568-->
+    <polygon
+       id="polygon4637"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10424,3745 10629,3572 10360,3567 10424,3745 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4639"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="9118,4110 10100,2798 " />
+    <!-- Arrowhead on XXXpoint 9118 4110 - 10289 2548-->
+    <polygon
+       id="polygon4641"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10206,2815 10282,2557 10055,2702 10206,2815 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4643"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10582,3590 9354,4026 " />
+    <!-- Arrowhead on XXXpoint 10582 3590 - 9058 4131-->
+    <polygon
+       id="polygon4645"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="9275,3952 9069,4127 9338,4131 9275,3952 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4647"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10582,3590 10464,4804 " />
+    <!-- Arrowhead on XXXpoint 10582 3590 - 10434 5117-->
+    <polygon
+       id="polygon4649"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10365,4845 10435,5105 10553,4862 10365,4845 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4651"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10582,3590 11439,4408 " />
+    <!-- Arrowhead on XXXpoint 10582 3590 - 11667 4625-->
+    <polygon
+       id="polygon4653"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="11411,4511 11658,4617 11541,4374 11411,4511 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4655"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10582,3590 12101,2891 " />
+    <!-- Arrowhead on XXXpoint 10582 3590 - 12387 2760-->
+    <polygon
+       id="polygon4657"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12186,2956 12376,2765 12108,2784 12186,2956 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4659"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10582,3590 10330,2836 " />
+    <!-- Arrowhead on XXXpoint 10582 3590 - 10232 2538-->
+    <polygon
+       id="polygon4661"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10405,2759 10236,2550 10225,2818 10405,2759 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4663"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="708,1748 2333,2706 " />
+    <!-- Arrowhead on XXXpoint 708 1748 - 2604 2866-->
+    <polygon
+       id="polygon4665"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="2328,2812 2594,2859 2424,2649 2328,2812 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4667"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="708,1748 1459,3500 " />
+    <!-- Arrowhead on XXXpoint 708 1748 - 1583 3790-->
+    <polygon
+       id="polygon4669"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1392,3584 1579,3779 1566,3509 1392,3584 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4671"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="708,1748 12031,1608 " />
+    <!-- Arrowhead on XXXpoint 708 1748 - 12345 1605-->
+    <polygon
+       id="polygon4673"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12082,1701 12333,1605 12079,1512 12082,1701 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4675"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1559,3732 3247,3979 " />
+    <!-- Arrowhead on XXXpoint 1559 3732 - 3558 4024-->
+    <polygon
+       id="polygon4677"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="3282,4078 3546,4022 3310,3891 3282,4078 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4679"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1559,3732 2364,3002 " />
+    <!-- Arrowhead on XXXpoint 1559 3732 - 2597 2791-->
+    <polygon
+       id="polygon4681"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="2465,3037 2588,2798 2338,2897 2465,3037 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4683"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1559,3732 807,1979 " />
+    <!-- Arrowhead on XXXpoint 1559 3732 - 683 1689-->
+    <polygon
+       id="polygon4685"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="873,1893 687,1699 699,1968 873,1893 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4687"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1559,3732 1479,4944 " />
+    <!-- Arrowhead on XXXpoint 1559 3732 - 1460 5258-->
+    <polygon
+       id="polygon4689"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1382,4988 1461,5247 1571,5001 1382,4988 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4691"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1559,3732 3514,4880 " />
+    <!-- Arrowhead on XXXpoint 1559 3732 - 3785 5039-->
+    <polygon
+       id="polygon4693"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="3509,4986 3775,5033 3605,4823 3509,4986 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4695"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1464,5196 1543,3983 " />
+    <!-- Arrowhead on XXXpoint 1464 5196 - 1562 3669-->
+    <polygon
+       id="polygon4697"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1638,3938 1561,3680 1449,3925 1638,3938 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4699"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1464,5196 3481,5027 " />
+    <!-- Arrowhead on XXXpoint 1464 5196 - 3794 5002-->
+    <polygon
+       id="polygon4701"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="3539,5118 3782,5003 3523,4930 3539,5118 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4703"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1464,5196 1427,5984 " />
+    <!-- Arrowhead on XXXpoint 1464 5196 - 1414 6298-->
+    <polygon
+       id="polygon4705"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1332,6030 1415,6286 1520,6038 1332,6030 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4707"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3732,5007 3553,4259 " />
+    <!-- Arrowhead on XXXpoint 3732 5007 - 3481 3953-->
+    <polygon
+       id="polygon4709"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="3634,4187 3484,3965 3450,4232 3634,4187 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4711"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3732,5007 1775,3858 " />
+    <!-- Arrowhead on XXXpoint 3732 5007 - 1504 3699-->
+    <polygon
+       id="polygon4713"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1779,3751 1514,3706 1683,3914 1779,3751 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4715"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3732,5007 1714,5175 " />
+    <!-- Arrowhead on XXXpoint 3732 5007 - 1401 5201-->
+    <polygon
+       id="polygon4717"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1655,5084 1413,5200 1671,5272 1655,5084 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4719"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="4582,2787 5396,3194 " />
+    <!-- Arrowhead on XXXpoint 4582 2787 - 5677 3334-->
+    <polygon
+       id="polygon4721"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="5399,3300 5667,3329 5483,3131 5399,3300 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4723"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="4582,2787 3661,3826 " />
+    <!-- Arrowhead on XXXpoint 4582 2787 - 3454 4061-->
+    <polygon
+       id="polygon4725"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="3556,3801 3461,4053 3698,3926 3556,3801 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4727"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="4582,2787 2802,2828 " />
+    <!-- Arrowhead on XXXpoint 4582 2787 - 2488 2835-->
+    <polygon
+       id="polygon4729"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="2748,2734 2499,2835 2753,2923 2748,2734 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4731"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3496,4015 4415,2975 " />
+    <!-- Arrowhead on XXXpoint 3496 4015 - 4623 2740-->
+    <polygon
+       id="polygon4733"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="4519,2999 4616,2748 4377,2874 4519,2999 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4735"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3496,4015 1806,3767 " />
+    <!-- Arrowhead on XXXpoint 3496 4015 - 1496 3722-->
+    <polygon
+       id="polygon4737"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1770,3667 1507,3724 1742,3854 1770,3667 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4739"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3496,4015 3673,4763 " />
+    <!-- Arrowhead on XXXpoint 3496 4015 - 3745 5068-->
+    <polygon
+       id="polygon4741"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="3592,4833 3742,5057 3776,4789 3592,4833 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4743"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2551,2834 4330,2792 " />
+    <!-- Arrowhead on XXXpoint 2551 2834 - 4644 2785-->
+    <polygon
+       id="polygon4745"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="4383,2885 4633,2785 4377,2696 4383,2885 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4747"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2551,2834 924,1875 " />
+    <!-- Arrowhead on XXXpoint 2551 2834 - 654 1715-->
+    <polygon
+       id="polygon4749"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="929,1767 664,1721 832,1930 929,1767 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4751"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2551,2834 1744,3563 " />
+    <!-- Arrowhead on XXXpoint 2551 2834 - 1511 3774-->
+    <polygon
+       id="polygon4753"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1643,3527 1520,3766 1770,3667 1643,3527 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4755"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1417,6236 1453,5447 " />
+    <!-- Arrowhead on XXXpoint 1417 6236 - 1466 5133-->
+    <polygon
+       id="polygon4757"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1549,5400 1466,5145 1360,5392 1549,5400 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4759"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1417,6236 1742,6996 " />
+    <!-- Arrowhead on XXXpoint 1417 6236 - 1866 7286-->
+    <polygon
+       id="polygon4761"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1675,7080 1862,7275 1849,7005 1675,7080 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4763"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1842,7228 1516,6467 " />
+    <!-- Arrowhead on XXXpoint 1842 7228 - 1392 6177-->
+    <polygon
+       id="polygon4765"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1582,6382 1396,6187 1407,6456 1582,6382 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4767"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1842,7228 3341,7471 " />
+    <!-- Arrowhead on XXXpoint 1842 7228 - 3652 7521-->
+    <polygon
+       id="polygon4769"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="3376,7571 3640,7519 3406,7384 3376,7571 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4771"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1842,7228 2235,8406 " />
+    <!-- Arrowhead on XXXpoint 1842 7228 - 2333 8704-->
+    <polygon
+       id="polygon4773"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="2159,8482 2329,8692 2339,8423 2159,8482 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4775"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3590,7511 2090,7267 " />
+    <!-- Arrowhead on XXXpoint 3590 7511 - 1779 7217-->
+    <polygon
+       id="polygon4777"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="2054,7166 1791,7219 2024,7353 2054,7166 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4779"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3590,7511 2501,8478 " />
+    <!-- Arrowhead on XXXpoint 3590 7511 - 2267 8686-->
+    <polygon
+       id="polygon4781"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="2401,8440 2276,8679 2527,8581 2401,8440 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4783"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3590,7511 5941,7083 " />
+    <!-- Arrowhead on XXXpoint 3590 7511 - 6250 7027-->
+    <polygon
+       id="polygon4785"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6007,7167 6239,7029 5973,6981 6007,7167 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4787"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2314,8645 1921,7466 " />
+    <!-- Arrowhead on XXXpoint 2314 8645 - 1822 7168-->
+    <polygon
+       id="polygon4789"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1995,7388 1826,7180 1816,7448 1995,7388 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4791"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2314,8645 3402,7677 " />
+    <!-- Arrowhead on XXXpoint 2314 8645 - 3636 7469-->
+    <polygon
+       id="polygon4793"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="3502,7714 3628,7477 3376,7573 3502,7714 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4795"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2314,8645 2001,9819 " />
+    <!-- Arrowhead on XXXpoint 2314 8645 - 1920 10122-->
+    <polygon
+       id="polygon4797"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="1897,9842 1923,10111 2078,9891 1897,9842 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4799"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1937,10062 2249,8888 " />
+    <!-- Arrowhead on XXXpoint 1937 10062 - 2330 8584-->
+    <polygon
+       id="polygon4801"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="2353,8864 2327,8596 2171,8814 2353,8864 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4803"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6188,7039 3837,7466 " />
+    <!-- Arrowhead on XXXpoint 6188 7039 - 3527 7522-->
+    <polygon
+       id="polygon4805"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="3770,7381 3539,7520 3803,7567 3770,7381 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4807"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6188,7039 6295,6296 " />
+    <!-- Arrowhead on XXXpoint 6188 7039 - 6339 5984-->
+    <polygon
+       id="polygon4809"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6394,6258 6337,5995 6207,6230 6394,6258 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4811"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6188,7039 7615,6345 " />
+    <!-- Arrowhead on XXXpoint 6188 7039 - 7898 6207-->
+    <polygon
+       id="polygon4813"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7701,6407 7887,6213 7618,6238 7701,6407 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4815"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6188,7039 7033,7730 " />
+    <!-- Arrowhead on XXXpoint 6188 7039 - 7276 7928-->
+    <polygon
+       id="polygon4817"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7012,7834 7267,7921 7131,7688 7012,7834 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4819"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6330,6047 7487,4724 " />
+    <!-- Arrowhead on XXXpoint 6330 6047 - 7694 4487-->
+    <polygon
+       id="polygon4821"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7591,4746 7687,4495 7449,4622 7591,4746 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4823"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6330,6047 6223,6789 " />
+    <!-- Arrowhead on XXXpoint 6330 6047 - 6179 7101-->
+    <polygon
+       id="polygon4825"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6122,6826 6181,7089 6310,6853 6122,6826 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4827"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6330,6047 7592,6204 " />
+    <!-- Arrowhead on XXXpoint 6330 6047 - 7904 6243-->
+    <polygon
+       id="polygon4829"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7630,6304 7892,6242 7653,6116 7630,6304 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4831"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7842,6236 6414,6929 " />
+    <!-- Arrowhead on XXXpoint 7842 6236 - 6132 7066-->
+    <polygon
+       id="polygon4833"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6327,6866 6142,7061 6410,7036 6327,6866 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4835"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7842,6236 6579,6077 " />
+    <!-- Arrowhead on XXXpoint 7842 6236 - 6267 6038-->
+    <polygon
+       id="polygon4837"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6540,5976 6279,6039 6516,6164 6540,5976 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4839"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7842,6236 7315,7653 " />
+    <!-- Arrowhead on XXXpoint 7842 6236 - 7206 7948-->
+    <polygon
+       id="polygon4841"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7209,7668 7210,7938 7385,7734 7209,7668 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4843"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7842,6236 8584,6342 " />
+    <!-- Arrowhead on XXXpoint 7842 6236 - 8896 6386-->
+    <polygon
+       id="polygon4845"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8621,6441 8885,6384 8648,6255 8621,6441 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4847"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7228,7889 6383,7197 " />
+    <!-- Arrowhead on XXXpoint 7228 7889 - 6139 6999-->
+    <polygon
+       id="polygon4849"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6403,7092 6149,7006 6283,7238 6403,7092 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4851"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7228,7889 7754,6471 " />
+    <!-- Arrowhead on XXXpoint 7228 7889 - 7863 6176-->
+    <polygon
+       id="polygon4853"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7859,6455 7859,6186 7682,6389 7859,6455 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4855"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7228,7889 6979,8596 " />
+    <!-- Arrowhead on XXXpoint 7228 7889 - 6876 8893-->
+    <polygon
+       id="polygon4857"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6874,8612 6880,8881 7053,8675 6874,8612 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4859"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6897,8834 7145,8127 " />
+    <!-- Arrowhead on XXXpoint 6897 8834 - 7248 7829-->
+    <polygon
+       id="polygon4861"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7249,8110 7244,7841 7070,8047 7249,8110 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4863"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6897,8834 6934,9763 " />
+    <!-- Arrowhead on XXXpoint 6897 8834 - 6946 10077-->
+    <polygon
+       id="polygon4865"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6841,9817 6946,10066 7030,9809 6841,9817 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4867"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6897,8834 8544,9287 " />
+    <!-- Arrowhead on XXXpoint 6897 8834 - 8847 9370-->
+    <polygon
+       id="polygon4869"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8566,9391 8835,9366 8617,9208 8566,9391 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4871"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6944,10015 6907,9085 " />
+    <!-- Arrowhead on XXXpoint 6944 10015 - 6894 8771-->
+    <polygon
+       id="polygon4873"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="6998,9030 6894,8783 6809,9038 6998,9030 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4875"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6944,10015 8550,9438 " />
+    <!-- Arrowhead on XXXpoint 6944 10015 - 8846 9332-->
+    <polygon
+       id="polygon4877"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8629,9509 8835,9336 8565,9332 8629,9509 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4879"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="8787,9354 7139,8900 " />
+    <!-- Arrowhead on XXXpoint 8787 9354 - 6836 8817-->
+    <polygon
+       id="polygon4881"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7116,8795 6848,8820 7065,8978 7116,8795 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4883"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="8787,9354 7181,9930 " />
+    <!-- Arrowhead on XXXpoint 8787 9354 - 6885 10036-->
+    <polygon
+       id="polygon4885"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="7100,9858 6895,10032 7164,10035 7100,9858 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4887"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="8834,6377 8091,6270 " />
+    <!-- Arrowhead on XXXpoint 8834 6377 - 7779 6226-->
+    <polygon
+       id="polygon4889"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8053,6170 7791,6228 8026,6358 8053,6170 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4891"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="8834,6377 9256,5779 " />
+    <!-- Arrowhead on XXXpoint 8834 6377 - 9437 5522-->
+    <polygon
+       id="polygon4893"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="9362,5792 9430,5531 9208,5682 9362,5792 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4895"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="9401,5574 8978,6172 " />
+    <!-- Arrowhead on XXXpoint 9401 5574 - 8797 6429-->
+    <polygon
+       id="polygon4897"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="8871,6159 8804,6419 9025,6267 8871,6159 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4899"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="9401,5574 10215,5166 " />
+    <!-- Arrowhead on XXXpoint 9401 5574 - 10496 5026-->
+    <polygon
+       id="polygon4901"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10302,5228 10486,5032 10218,5059 10302,5228 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4903"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10440,5055 10558,3840 " />
+    <!-- Arrowhead on XXXpoint 10440 5055 - 10587 3527-->
+    <polygon
+       id="polygon4905"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10656,3798 10586,3539 10468,3780 10656,3798 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4907"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10440,5055 9626,5462 " />
+    <!-- Arrowhead on XXXpoint 10440 5055 - 9344 5602-->
+    <polygon
+       id="polygon4909"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="9538,5399 9355,5596 9622,5568 9538,5399 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4911"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10440,5055 11387,4675 " />
+    <!-- Arrowhead on XXXpoint 10440 5055 - 11679 4558-->
+    <polygon
+       id="polygon4913"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="11469,4743 11669,4562 11399,4567 11469,4743 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4915"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10440,5055 11071,6159 " />
+    <!-- Arrowhead on XXXpoint 10440 5055 - 11227 6432-->
+    <polygon
+       id="polygon4917"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="11013,6249 11220,6422 11177,6155 11013,6249 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4919"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="11622,4582 10764,3763 " />
+    <!-- Arrowhead on XXXpoint 11622 4582 - 10536 3546-->
+    <polygon
+       id="polygon4921"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10791,3659 10544,3554 10661,3796 10791,3659 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4923"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="11622,4582 10674,4961 " />
+    <!-- Arrowhead on XXXpoint 11622 4582 - 10382 5078-->
+    <polygon
+       id="polygon4925"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10591,4892 10392,5074 10661,5067 10591,4892 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4927"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="11622,4582 11253,6132 " />
+    <!-- Arrowhead on XXXpoint 11622 4582 - 11182 6438-->
+    <polygon
+       id="polygon4929"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="11150,6159 11185,6427 11334,6203 11150,6159 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4931"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="11196,6377 10564,5272 " />
+    <!-- Arrowhead on XXXpoint 11196 6377 - 10409 4999-->
+    <polygon
+       id="polygon4933"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10622,5181 10415,5009 10457,5275 10622,5181 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4935"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="11196,6377 11564,4827 " />
+    <!-- Arrowhead on XXXpoint 11196 6377 - 11635 4520-->
+    <polygon
+       id="polygon4937"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="11666,4798 11632,4532 11482,4754 11666,4798 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4939"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="11196,6377 12725,5508 " />
+    <!-- Arrowhead on XXXpoint 11196 6377 - 12999 5354-->
+    <polygon
+       id="polygon4941"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12815,5566 12988,5360 12722,5402 12815,5566 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4943"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13086,3874 11847,4472 " />
+    <!-- Arrowhead on XXXpoint 13086 3874 - 11564 4609-->
+    <polygon
+       id="polygon4945"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="11759,4409 11574,4604 11842,4579 11759,4409 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4947"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13086,3874 14093,3331 " />
+    <!-- Arrowhead on XXXpoint 13086 3874 - 14369 3182-->
+    <polygon
+       id="polygon4949"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="14181,3390 14359,3187 14092,3223 14181,3390 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4951"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13086,3874 12966,5134 " />
+    <!-- Arrowhead on XXXpoint 13086 3874 - 12938 5447-->
+    <polygon
+       id="polygon4953"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12868,5175 12939,5436 13057,5193 12868,5175 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4955"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13086,3874 12473,2993 " />
+    <!-- Arrowhead on XXXpoint 13086 3874 - 12293 2734-->
+    <polygon
+       id="polygon4957"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12520,2896 12300,2744 12366,3004 12520,2896 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4959"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="14314,3212 13307,3754 " />
+    <!-- Arrowhead on XXXpoint 14314 3212 - 13030 3903-->
+    <polygon
+       id="polygon4961"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="13217,3695 13041,3898 13307,3861 13217,3695 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4963"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12944,5385 11415,6254 " />
+    <!-- Arrowhead on XXXpoint 12944 5385 - 11141 6408-->
+    <polygon
+       id="polygon4965"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="11323,6196 11151,6403 11417,6360 11323,6196 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4967"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12944,5385 13063,4123 " />
+    <!-- Arrowhead on XXXpoint 12944 5385 - 13091 3811-->
+    <polygon
+       id="polygon4969"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="13161,4081 13090,3822 12973,4064 13161,4081 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4971"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12944,5385 13352,6199 " />
+    <!-- Arrowhead on XXXpoint 12944 5385 - 13491 6480-->
+    <polygon
+       id="polygon4973"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="13289,6286 13486,6470 13458,6202 13289,6286 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4975"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12330,2787 10810,3485 " />
+    <!-- Arrowhead on XXXpoint 12330 2787 - 10524 3616-->
+    <polygon
+       id="polygon4977"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10724,3420 10535,3611 10803,3591 10724,3420 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4979"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12330,2787 12942,3667 " />
+    <!-- Arrowhead on XXXpoint 12330 2787 - 13122 3925-->
+    <polygon
+       id="polygon4981"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12894,3762 13116,3916 13048,3654 12894,3762 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4983"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12330,2787 12292,1857 " />
+    <!-- Arrowhead on XXXpoint 12330 2787 - 12280 1543-->
+    <polygon
+       id="polygon4985"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12384,1802 12280,1554 12195,1809 12384,1802 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4987"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12283,1606 959,1744 " />
+    <!-- Arrowhead on XXXpoint 12283 1606 - 645 1748-->
+    <polygon
+       id="polygon4989"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="907,1650 657,1748 910,1839 907,1650 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4991"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12283,1606 12320,2535 " />
+    <!-- Arrowhead on XXXpoint 12283 1606 - 12332 2849-->
+    <polygon
+       id="polygon4993"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12227,2588 12332,2837 12416,2581 12227,2588 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4995"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12283,1606 10477,2488 " />
+    <!-- Arrowhead on XXXpoint 12283 1606 - 10195 2625-->
+    <polygon
+       id="polygon4997"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10390,2424 10205,2620 10473,2594 10390,2424 " />
+    <!-- Line -->
+    <polyline
+       id="polyline4999"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10251,2598 9268,3908 " />
+    <!-- Arrowhead on XXXpoint 10251 2598 - 9080 4160-->
+    <polygon
+       id="polygon5001"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="9163,3892 9087,4151 9314,4006 9163,3892 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5003"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10251,2598 10502,3351 " />
+    <!-- Arrowhead on XXXpoint 10251 2598 - 10601 3649-->
+    <polygon
+       id="polygon5005"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="10427,3427 10597,3637 10606,3367 10427,3427 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5007"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="10251,2598 12056,1715 " />
+    <!-- Arrowhead on XXXpoint 10251 2598 - 12339 1577-->
+    <polygon
+       id="polygon5009"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12142,1778 12328,1583 12059,1608 12142,1778 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5011"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13464,6425 13056,5610 " />
+    <!-- Arrowhead on XXXpoint 13464 6425 - 12916 5329-->
+    <polygon
+       id="polygon5013"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="13118,5522 12921,5339 12949,5606 13118,5522 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5015"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13464,6425 13862,7149 " />
+    <!-- Arrowhead on XXXpoint 13464 6425 - 14013 7424-->
+    <polygon
+       id="polygon5017"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="13803,7237 14008,7414 13969,7147 13803,7237 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5019"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13984,7370 13585,6644 " />
+    <!-- Arrowhead on XXXpoint 13984 7370 - 13434 6369-->
+    <polygon
+       id="polygon5021"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="13643,6554 13439,6380 13477,6645 13643,6554 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5023"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13984,7370 12791,7966 " />
+    <!-- Arrowhead on XXXpoint 13984 7370 - 12510 8106-->
+    <polygon
+       id="polygon5025"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12703,7903 12520,8100 12787,8072 12703,7903 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5027"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13984,7370 13765,8165 " />
+    <!-- Arrowhead on XXXpoint 13984 7370 - 13683 8469-->
+    <polygon
+       id="polygon5029"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="13661,8188 13687,8457 13844,8239 13661,8188 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5031"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12566,8078 13758,7481 " />
+    <!-- Arrowhead on XXXpoint 12566 8078 - 14039 7341-->
+    <polygon
+       id="polygon5033"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="13845,7543 14029,7346 13761,7374 13845,7543 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5035"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="12566,8078 13459,8339 " />
+    <!-- Arrowhead on XXXpoint 12566 8078 - 13760 8426-->
+    <polygon
+       id="polygon5037"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="13480,8443 13749,8423 13532,8261 13480,8443 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5039"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13700,8409 13918,7612 " />
+    <!-- Arrowhead on XXXpoint 13700 8409 - 14000 7309-->
+    <polygon
+       id="polygon5041"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="14020,7588 13996,7320 13839,7538 14020,7588 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5043"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13700,8409 12807,8148 " />
+    <!-- Arrowhead on XXXpoint 13700 8409 - 12506 8060-->
+    <polygon
+       id="polygon5045"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="12785,8043 12517,8064 12732,8224 12785,8043 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5047"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="13700,8409 14246,9461 " />
+    <!-- Arrowhead on XXXpoint 13700 8409 - 14390 9740-->
+    <polygon
+       id="polygon5049"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="14184,9549 14385,9730 14352,9462 14184,9549 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5051"
+       style="stroke:#87cfff;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter"
+       points="14362,9685 13815,8632 " />
+    <!-- Arrowhead on XXXpoint 14362 9685 - 13671 8352-->
+    <polygon
+       id="polygon5053"
+       style="fill:#87cfff;stroke:#87cfff;stroke-width:8;stroke-miterlimit:8"
+       points="13876,8542 13676,8363 13708,8629 13876,8542 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5055"
+       style="stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5905,4771 8220,5433 9637,6283 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5057"
+       style="stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+       points="9732,897 9732,1889 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5059"
+       style="stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5555,2441 4563,3670 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5061"
+       style="stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+       points="14031,5811 12377,6000 12094,7275 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5063"
+       style="stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+       points="520,5819 2174,5630 " />
+    <!-- Line -->
+    <polyline
+       id="polyline5065"
+       style="stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+       points="4677,6566 4677,7559 " />
+    <!-- Text -->
+    <text
+       id="text5067"
+       font-size="252"
+       font-weight="bold"
+       font-style="normal"
+       y="2362"
+       x="7606"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:252px;font-family:AvantGarde;text-anchor:end;fill:#ffbfbf">Europe/5</text>
+    <!-- Text -->
+    <g
+       id="g5069"
+       transform="matrix(1.101966e-5,1,-1,1.101966e-5,472,5669)">
+      <text
+         id="text5071"
+         font-size="252"
+         font-weight="bold"
+         font-style="normal"
+         y="0"
+         x="0"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:bold;font-size:252px;font-family:AvantGarde;text-anchor:end;fill:#ffbfbf">North_America/5</text>
+    </g>
+    <!-- Text -->
+    <g
+       id="g5073"
+       transform="matrix(1.101966e-5,1,-1,1.101966e-5,472,11244)">
+      <text
+         id="text5075"
+         font-size="252"
+         font-weight="bold"
+         font-style="normal"
+         y="0"
+         x="0"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:bold;font-size:252px;font-family:AvantGarde;text-anchor:end;fill:#ffbfbf">South_America/2</text>
+    </g>
+    <!-- Text -->
+    <g
+       id="g5077"
+       transform="matrix(1.101966e-5,1,-1,1.101966e-5,5574,10535)">
+      <text
+         id="text5079"
+         font-size="252"
+         font-weight="bold"
+         font-style="normal"
+         y="0"
+         x="0"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:bold;font-size:252px;font-family:AvantGarde;text-anchor:end;fill:#ffbfbf">Africa/3</text>
+    </g>
+    <!-- Text -->
+    <text
+       id="text5081"
+       font-size="252"
+       font-weight="bold"
+       font-style="normal"
+       y="4913"
+       x="9637"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:252px;font-family:AvantGarde;text-anchor:end;fill:#ffbfbf">Asia/7</text>
+    <!-- Text -->
+    <text
+       id="text5083"
+       font-size="252"
+       font-weight="bold"
+       font-style="normal"
+       y="10535"
+       x="15023"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:252px;font-family:AvantGarde;text-anchor:end;fill:#ffbfbf">Oceania/2</text>
+    <!-- Text -->
+    <text
+       id="text5085"
+       font-size="1008"
+       font-weight="bold"
+       font-style="normal"
+       y="1370"
+       x="9968"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:1008px;font-family:AvantGarde;text-anchor:end;fill:#ffffff">PKrisk</text>
+  </g>
+  <rect
+     x="0.074999958"
+     y="770.07501"
+     width="1026.5112"
+     height="769.84998"
+     rx="0"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter"
+     id="rect5538" />
+  <circle
+     cx="451.5715"
+     cy="1029.0088"
+     r="28.406515"
+     style="fill:#263b93;stroke:#263b93;stroke-width:0.53471088"
+     id="United_Kingdom"
+     inkscape:label="#United Kingdom" />
+  <circle
+     cx="375.84308"
+     cy="991.11108"
+     r="28.406515"
+     style="fill:#08de3e;stroke:#08de3e;stroke-width:0.53471088"
+     id="Iceland" />
+  <circle
+     cx="511.5928"
+     cy="1073.1892"
+     r="28.406515"
+     style="fill:#5a9a11;stroke:#5a9a11;stroke-width:0.53471088"
+     id="France" />
+  <circle
+     cx="552.63184"
+     cy="1010.0265"
+     r="28.406515"
+     style="fill:#0bf6b0;stroke:#0bf6b0;stroke-width:0.53471088"
+     id="circle5546" />
+  <circle
+     cx="546.349"
+     cy="940.58093"
+     r="28.406515"
+     style="fill:#2ec89d;stroke:#2ec89d;stroke-width:0.53471088"
+     id="circle5548" />
+  <circle
+     cx="609.51172"
+     cy="1044.7827"
+     r="28.406515"
+     style="fill:#24d19d;stroke:#24d19d;stroke-width:0.53471088"
+     id="Prussia" />
+  <circle
+     cx="707.36383"
+     cy="1010.0265"
+     r="28.406515"
+     style="fill:#6696e4;stroke:#6696e4;stroke-width:0.53471088"
+     id="circle5552" />
+  <circle
+     cx="47.396912"
+     cy="886.9093"
+     r="28.406515"
+     style="fill:#10e4af;stroke:#10e4af;stroke-width:0.53471088"
+     id="Alaska" />
+  <circle
+     cx="104.27678"
+     cy="1019.5176"
+     r="28.406515"
+     style="fill:#d5efa0;stroke:#d5efa0;stroke-width:0.53471088"
+     id="circle5556" />
+  <circle
+     cx="97.927094"
+     cy="1117.3698"
+     r="28.406515"
+     style="fill:#c79c9b;stroke:#c79c9b;stroke-width:0.53471088"
+     id="circle5558" />
+  <circle
+     cx="249.51762"
+     cy="1104.7372"
+     r="28.406515"
+     style="fill:#09f7e7;stroke:#09f7e7;stroke-width:0.53471088"
+     id="circle5560" />
+  <circle
+     cx="306.33066"
+     cy="956.35492"
+     r="28.406515"
+     style="fill:#d39291;stroke:#d39291;stroke-width:0.53471088"
+     id="circle5562" />
+  <circle
+     cx="233.74365"
+     cy="1038.433"
+     r="28.406515"
+     style="fill:#3a2ca8;stroke:#3a2ca8;stroke-width:0.53471088"
+     id="circle5564" />
+  <circle
+     cx="170.58093"
+     cy="959.49634"
+     r="28.406515"
+     style="fill:#a0697f;stroke:#a0697f;stroke-width:0.53471088"
+     id="circle5566" />
+  <circle
+     cx="94.785667"
+     cy="1186.8821"
+     r="28.406515"
+     style="fill:#f26ae5;stroke:#f26ae5;stroke-width:0.53471088"
+     id="Mexico" />
+  <circle
+     cx="123.19218"
+     cy="1253.1863"
+     r="28.406515"
+     style="fill:#0772fa;stroke:#0772fa;stroke-width:0.53471088"
+     id="circle5570" />
+  <circle
+     cx="240.0265"
+     cy="1272.1017"
+     r="28.406515"
+     style="fill:#950130;stroke:#950130;stroke-width:0.53471088"
+     id="circle5572" />
+  <circle
+     cx="154.74013"
+     cy="1347.897"
+     r="28.406515"
+     style="fill:#73d217;stroke:#73d217;stroke-width:0.53471088"
+     id="circle5574" />
+  <circle
+     cx="129.54187"
+     cy="1442.6077"
+     r="28.406515"
+     style="fill:#209b00;stroke:#209b00;stroke-width:0.53471088"
+     id="circle5576" />
+  <circle
+     cx="413.67386"
+     cy="1240.5537"
+     r="28.406515"
+     style="fill:#2b1ae5;stroke:#2b1ae5;stroke-width:0.53471088"
+     id="circle5578" />
+  <circle
+     cx="423.16498"
+     cy="1174.2496"
+     r="28.406515"
+     style="fill:#fe8336;stroke:#fe8336;stroke-width:0.53471088"
+     id="circle5580" />
+  <circle
+     cx="524.22534"
+     cy="1186.8821"
+     r="28.406515"
+     style="fill:#cd8d6a;stroke:#cd8d6a;stroke-width:0.53471088"
+     id="circle5582" />
+  <circle
+     cx="483.18628"
+     cy="1297.3668"
+     r="28.406515"
+     style="fill:#5e35d7;stroke:#5e35d7;stroke-width:0.53471088"
+     id="circle5584" />
+  <circle
+     cx="461.06262"
+     cy="1360.5295"
+     r="28.406515"
+     style="fill:#3bdf1f;stroke:#3bdf1f;stroke-width:0.53471088"
+     id="circle5586" />
+  <circle
+     cx="464.20404"
+     cy="1439.4662"
+     r="28.406515"
+     style="fill:#d044dd;stroke:#d044dd;stroke-width:0.53471088"
+     id="circle5588" />
+  <circle
+     cx="587.38806"
+     cy="1395.2856"
+     r="28.406515"
+     style="fill:#034617;stroke:#034617;stroke-width:0.53471088"
+     id="circle5590" />
+  <circle
+     cx="590.52948"
+     cy="1196.3064"
+     r="28.406515"
+     style="fill:#d6e70c;stroke:#d6e70c;stroke-width:0.53471088"
+     id="circle5592" />
+  <circle
+     cx="628.42712"
+     cy="1142.6348"
+     r="28.406515"
+     style="fill:#30d0ff;stroke:#30d0ff;stroke-width:0.53471088"
+     id="circle5594" />
+  <circle
+     cx="697.87268"
+     cy="1107.9454"
+     r="28.406515"
+     style="fill:#17f86c;stroke:#17f86c;stroke-width:0.53471088"
+     id="circle5596" />
+  <circle
+     cx="776.87622"
+     cy="1076.3307"
+     r="28.406515"
+     style="fill:#bdafbc;stroke:#bdafbc;stroke-width:0.53471088"
+     id="circle5598" />
+  <circle
+     cx="748.40289"
+     cy="1196.3064"
+     r="28.406515"
+     style="fill:#41fd45;stroke:#41fd45;stroke-width:0.53471088"
+     id="India" />
+  <circle
+     cx="874.72833"
+     cy="1029.0088"
+     r="28.406515"
+     style="fill:#9c0802;stroke:#9c0802;stroke-width:0.53471088"
+     id="circle5602" />
+  <circle
+     cx="956.80646"
+     cy="984.76141"
+     r="28.406515"
+     style="fill:#1c6f69;stroke:#1c6f69;stroke-width:0.53471088"
+     id="Japan" />
+  <circle
+     cx="865.23718"
+     cy="1130.0023"
+     r="28.406515"
+     style="fill:#b1661c;stroke:#b1661c;stroke-width:0.53471088"
+     id="circle5606" />
+  <circle
+     cx="824.19812"
+     cy="956.35492"
+     r="28.406515"
+     style="fill:#4473cd;stroke:#4473cd;stroke-width:0.53471088"
+     id="circle5608" />
+  <circle
+     cx="821.0567"
+     cy="877.41821"
+     r="28.406515"
+     style="fill:#82c2e6;stroke:#82c2e6;stroke-width:0.53471088"
+     id="Siberia" />
+  <circle
+     cx="685.24017"
+     cy="943.72235"
+     r="28.406515"
+     style="fill:#be4719;stroke:#be4719;stroke-width:0.53471088"
+     id="circle5612" />
+  <circle
+     cx="899.99341"
+     cy="1199.5146"
+     r="28.406515"
+     style="fill:#29fe15;stroke:#29fe15;stroke-width:0.53471088"
+     id="circle5614" />
+  <circle
+     cx="934.74963"
+     cy="1262.6774"
+     r="28.406515"
+     style="fill:#8afbbe;stroke:#8afbbe;stroke-width:0.53471088"
+     id="circle5616" />
+  <circle
+     cx="839.97211"
+     cy="1309.9993"
+     r="28.406515"
+     style="fill:#2ba1d8;stroke:#2ba1d8;stroke-width:0.53471088"
+     id="circle5618" />
+  <circle
+     cx="915.7674"
+     cy="1332.1229"
+     r="28.406515"
+     style="fill:#f7db45;stroke:#f7db45;stroke-width:0.53471088"
+     id="circle5620" />
+  <circle
+     cx="960.01471"
+     cy="1417.4093"
+     r="28.406515"
+     style="fill:#a0703c;stroke:#a0703c;stroke-width:0.53471088"
+     id="New_Zealand"
+     inkscape:label="#New Zealand" />
+  <image
+     y="445.5"
+     x="1051"
+     id="cavalry"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAABZCAYAAAApbZR2AAAABHNCSVQICAgIfAhkiAAABPpJREFU aIHtms1rU1kUwH/nvnwbP6Y2NrHtdOGA4ko3QmejlNGN1CqVgu66dhb9G9zLSMFFQYQKxVVBUAfG Ke5U6MIRd4KKbWpbja3VpGmTvPfuLPIxneS9lyYp48yYAyXpe+/e37nnnXvuOfdGtNZ8DVFfhfpN gn3VF66LaICdevNS+hzTWrZerwEDKL+faE8P4nO8vW3RpklmYQG7UKi5V9OzBiKJBKfv3CESj0Oz Xi9CdnmZ30ZGSM/P1wcDKMMgHIsVwbbdHFgptGWhDMPxtqsttdagNc3Oc6nTdse8WgwDcRmdk7iO WABEQHnrJiLYuRwfHz4Erdk/MIAKher6RgVcnkal3jAzGXKLi2ivdyxC/sMHkhMTLE9Pg9bEh4f5 /soVIocOefqHrwYKiFIsTU2xNjPjqTUiFFZXyb59W/wXSE5Okn39mvjFi0T7+4tWcwOPaS1b4dq2 iQ0Okhgc9HQQKVlmaWqK93fvgtYkzp+n7+efCfX2kstkXE1eMXU5svwiotGaUHc30d5eb1OXRr2v v58DQ0MA7D99GiMcBqCQy7k285xO2rLqgwEVDHLg3LliO9tGWxailGfYbS0m/qUl2rIaauI+nURA pPjZjNRp6wjWlsXmygpGINB85BJhc2XF1RI1YAHWl5b4/fJllN/f0iJhFwqsLy3hNG7HEduFAmuv XjUHrOa7XW8ne21wG9wGt8FtsJu4VotNFi41Uh7ZtqpFfzRKz8AAvkikpUTAzGZZePSIQiZTc9+x WgzHYvx47Rq7urtbKtrW373j3pkz5LcD3qIyIoJuMucq52yuejXQU1MKNA0ua25lMohSO6aAK1hE EMMgv7rK3Pg4f4yMsHDrFlY6XSlJvf5QyjXfAo93/OXZMzKzs8zfuMGnp0/RlsXa48e8n54mevRo 3c2ZUCLBd2fPViy0tTYb01o8ncv8/Jn86molN9amSeHTJ7TWRbO7iC619xJX8J7jx9nV00PHqVMk Jyb4ODND14UL9IyOEkwkPDstK76eTFby8m0FECjtgdg24b4+frh6lb6xMQKdnZVNlbrcOkVbXa/W to0oRTAWK15oNqA0Cq4osMOJv7OpRVDlqVFn88VVSn14bkVUi7mxwfKTJ4RisZZi9WYqhbmx4axX tQmvi2hEMILB5mvjkmitsXI50LrGqx2LtupdoFalGuoK/ifk28u52uA2uA1ug/97YM+zxVaXD6HB s0UjGGTf4cOoQMB197a8VruubiLY+TxrL18W1+QqcT5bjMf56fZtIgcPOmcgSpF+/hyA3ceOuT6T XVzk16EhvszN1QdDMTX1R6MEdu92HJEyDD4mk6hgkMDevY7prohQiEZdczb3vLry5e9gUYqNZJK5 8XGMSISOkyfxd3bWjlqktby6RiHLYuHmTdIvXrA2O8u7ycmmEsKGwCJCfmWF1IMHleOh1L17mOl0 w+VrQ2CtNYHOTrqGhxGlUD4f8ZERfHv2NHx20fi5k1J0j46Sun8fFQ6TuHQJofE53zjYtgl2dbH3 xAlQCn9HR8OHXdBKyGy2tGkZ3KL8exaJsohSrlFHtmysiFKOHu3V3hVsmyaZ+XnsfN7xGFeUInjk CABf3rxxfSa7vIxtms7KO1WLyucjFIuhDMMxVsvWHy3YtusztmWxmUphm+b2q8Wd/K3PjlaL5YTB qdPtyFfz6nZ93Ab//8B/Ag2gFBen2bguAAAAAElFTkSuQmCC "
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="89"
+     width="30" />
+  <image
+     y="439.5"
+     x="1115"
+     id="infantry"
+     xlink:href="data:image/png;base64,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 "
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="89"
+     width="30" />
+  <image
+     y="309.5"
+     x="1057"
+     id="cannon"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAABZCAYAAAApbZR2AAAABHNCSVQICAgIfAhkiAAABORJREFU aIHtms9LG00Yx7/P7G6CNYqKStIKmiJIT0GUtpecDJSASBF6KZZCDqKnHnoRTxVKT6kIgv4LltIS Kkihinjx4KkFodRDlLbRliZF0Lps9se8hzZLNLubXRNrfc0Dc8g+u/OZZ+aZmeeZCXHOcR7CzoV6 KcHiyQdEdCaDzjknRzAASJKEjo4OiKKl2rVomoavX79CVdUSnWXNoVAICwsLCIVCMAzjVFDGGPb2 9nDv3j18/vzZHVgQBLS3tyMYDFYE1nUdgiBY6m37knNuFruKnfROOuAUXk1EMAwDe3t7+P79u/nM qxwDFzzariIiwq9fv/D06VPcuXMH8XgcMzMzyOfzkCQJoihCFEUwVt4eT27LGEMqlUIymTQ9dWpq CoqiIBKJmP7Q3d2NGzduOFd2Yiw5AH79+nWeTqe5oihclmWzKIrCx8fHeeG94kJEZpmYmOCapvF0 Os3D4TD/jeHHWJ4sJiL09vZCFEVomgYA8Pv9SCQS6OzsNC2+detW2dngCWwYBoaHh7G1tYVUKgXG GEZGRvDo0SPU19ebXmwYhqNHl4A550RE3GmKBAIBPHnyBOPj4yAiBINBMMZKVqdyDuZ5TeScQxAE dHR0AHBnnScwEZnFrgGF95y+9wQ2DAO5XA4+n6+iJTOXy9l+Tye7iYi4JEno6uqqyu60s7MDVVVL tkVLcEU0GykL/lty+WKuGrgGroFr4IsH/reyxUAggIGBAdTV1VUEk2UZKysrODw8LNFZ7sfhcBjL y8u4du1aRRFIJpNBLBbD9va2O4v/NKBs3OQkp4q53FRaSD91Xa9ulGknjDFks1l8+PABRIT+/n40 NjZ6HpKyYCIyg3MiQiaTwdjYGNbW1kBEGBoaQjKZRGtrq6Xlhe7+kyiYfe8IZoxhaWkJq6ur5u+t rS28ffvWfOfFixeIRqMYHR018yk34ggmImxsbGB+ft58djJV4Zwjm826BroC67qOhw8fIhaLAfht 8cePHzE5OYmfP38CAILBIKLRqGcHKzvGnZ2dCIfD5u+bN2+iqakJr169AmMMDx48wO3bt6HrenXB hmGUeOzw8DAGBwdBRJAkyRFa6AnXC4iTFB8jebXUEVxYIARBcHWQ4lSH3eplCZZlGevr67Zz0y04 m81ClmVrvdUmQUTw+/2nXqcLwjmHoiiFA5fySVu19+STUFvw35DLF3PVwDVwDVwDXzzwv5Ut+v1+ 9PT0wOfzVQTL5/P49OkTFEUp0VkGAl1dXXjz5g2uXr1qm5qUi7kYY9jd3cXQ0BB2dnbcWUxEaGho sM2J8vk8Xr9+DeB3xGnVM4wxHBwceIu5APu7RSKCLMt4/vw5ACAej8Pn85W8d2Z3i8UNq/hu0Q10 f38fz549QzqdRjqdxuzsLGRZ9gz3BBYEAYuLi5ibm8PR0RGOjo4wPT2Nd+/e2d4TVwVsGAbev39/ zJNlWcbm5qYnqGcwEaGvr++YF1+5cgWRSKT62WKxGIaBu3fvIpPJ4OXLlxAEAffv30csFqt+tlgs nHPU1dXh8ePHSCQSICI0NzebujMDFwNaWlpOBXQEF86o3GSKdtOIMeZ41mUJVlUVX758gaqqFZ3s ffv2zfLPJ4DNJiGKItra2jzPzZOi6zp+/PgBTdMucLZo1SirisvJuYU+tfy4Bv7/gf8D2H2JIISt xsAAAAAASUVORK5CYII= "
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="89"
+     width="30" />
+  <image
+     y="717.25"
+     x="1065.25"
+     id="mark1"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAAAAABzHgM7AAAABGdBTUEAALGPC/xhBQAAACBjSFJN AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZ cwAADE4AAAxOAX93jCMAAAAHdElNRQfhDBMNICw5FKzlAAAAmUlEQVQI1wXBMQqCYBgG4Ddp+hui BO0AjTW2SUGdoUztPF0gIhqiNXDIxBtEdwiUyDsERn5+b88DFaae3fdSioKyQnQ8bbCsCYZuSVWW g4BITEHGky8Lc8UiZOVj2PwYzeHuWX22LoUHxwKATrcBAFijB4hWG4r7GDeTkzu7Zm4SMHJefMZ8 OyFBWcM/XwL4Qqgwm9m9aUbRPy47URSL1rNaAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTEyLTE5 VDEzOjMyOjQ0KzAwOjAwmXmIyAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0xMi0xOVQxMzozMjo0 NCswMDowMOgkMHQAAAAddEVYdFNvZnR3YXJlAEdQTCBHaG9zdHNjcmlwdCA5LjE54wIg5QAAAABJ RU5ErkJggg== "
+     preserveAspectRatio="none"
+     height="13.5"
+     width="13.5" />
+  <image
+     y="717.25"
+     x="1117.25"
+     id="mark2"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAAAAABzHgM7AAAABGdBTUEAALGPC/xhBQAAACBjSFJN AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZ cwAADE4AAAxOAX93jCMAAAAHdElNRQfhDBMNICw5FKzlAAAAp0lEQVQI1wGcAGP/AP78/7M8ERE8 sv/8/gD//FYAWaKhWQBV+/8A/1oX4P/y9P/hGFn/ALAK2/9qCQp7/9oKrwBDWP/TAMe3AN//WUIC 1D0AGLY4AAUHAD3UAgAAAA9Jr06OGQABAABDWf//hxTK//f/WkMAsQjk4AAhSDfv4QmwAf9bwqbl 9/IONEhApQIAojtBxQ0e0C89ogAA/vz/szoRETq0//z+GkVI19BzVxIAAAAldEVYdGRhdGU6Y3Jl YXRlADIwMTctMTItMTlUMTM6MzI6NDQrMDA6MDCZeYjIAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE3 LTEyLTE5VDEzOjMyOjQ0KzAwOjAw6CQwdAAAAB10RVh0U29mdHdhcmUAR1BMIEdob3N0c2NyaXB0 IDkuMTnjAiDlAAAAAElFTkSuQmCC "
+     preserveAspectRatio="none"
+     height="13.5"
+     width="13.5" />
+  <image
+     y="717.25"
+     x="1181.25"
+     id="mark3"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAAAAABzHgM7AAAABGdBTUEAALGPC/xhBQAAACBjSFJN AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZ cwAADE4AAAxOAX93jCMAAAAHdElNRQfhDBMNICw5FKzlAAAApUlEQVQI1wXBPQ7BYAAG4Dclwbc1 UkwWx9AueobytQySXsAtTBYnEIupUX+nkLBUIiQNQRMDiYGlX/p6HmSKK1PXzSVVBqo23OnEhZMS 9KoXfr681lwiFGf2hBjxJOawJfe557ic0mtpkYVG8p45eViRBqBQ2UU/gIAteRhyiyOljUXxlmid Zp1xKQS7xiP2B6+74RFUEn4Q9CEVkSluTF0311TZH22nT4c7SPfjAAAAJXRFWHRkYXRlOmNyZWF0 ZQAyMDE3LTEyLTE5VDEzOjMyOjQ0KzAwOjAwmXmIyAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0x Mi0xOVQxMzozMjo0NCswMDowMOgkMHQAAAAddEVYdFNvZnR3YXJlAEdQTCBHaG9zdHNjcmlwdCA5 LjE54wIg5QAAAABJRU5ErkJggg== "
+     preserveAspectRatio="none"
+     height="13.5"
+     width="13.5" />
+  <image
+     y="230"
+     x="1126"
+     id="exploding"
+     xlink:href="data:image/png;base64,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 OS4xOeMCIOUAAAAASUVORK5CYII= "
+     preserveAspectRatio="none"
+     height="64"
+     width="64" />
+  <image
+     y="385.5"
+     x="1145"
+     id="firing"
+     xlink:href="data:image/png;base64,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
+IDkuMTnjAiDlAAAAAElFTkSuQmCC
+"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="54"
+     width="135" />
+  <image
+     y="13.686218"
+     x="1047.8379"
+     id="slf"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABHNCSVQICAgIfAhkiAAAATpJREFU
+KJHF0T9Lw0Ach/HnLpem2JKWNoOggpPgoiI4OAriJLqIi1OXbr4DV0EHN30HboKjS0f3IhRFHMRS
+EIq4WDVN8+fn0CJIG5EuPnDT8eHLcVztahERxjnGDoR6yRa7o9AqRikASEQhaNKyPA9DIkgYQay5
+zu/woJYwKmKtd8GM3yBJwRJFGAAbaDqLHIUnNINpAB7zcxyYCnbkj14GTJDV3C1kuWxVabamvy9r
+3U2W59eZdWpIf+NHTjGHaZeEw60uL/V7rNOYOLQA6E21Od5/IvJCkHgIe5kAIwi+EvzVcyZuNghv
+V1BWgr19RmeygSQAw9i3Bm9GIHJeCaoVLL8IKuHDfR7A9IyTaMoqx7ut0a6PFD4ByIgBCqnQNS6m
+7AuNvTf1+8botBIZx/Xx2PJ/cTT8hX/uC1QMlzK/ClVrAAAAAElFTkSuQmCC
+"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="15"
+     width="15" />
+  <image
+     y="45.46553"
+     x="1046.5138"
+     id="sfu"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABHNCSVQICAgIfAhkiAAAAS5JREFU
+KJHNkb1KA0EUhb+Z2QlJhDVIIoKFVUoLUTsLe8FKRH0DLRTs8gC+gJUWFpZCCisFC0G0srAUwTRB
+7ETQNckm+3MtDGiSXZFUfnCaOZzDvXOprroiIgwj5609ztTYozx7ZYyC/MYx/s42kW2CKNIomiJa
+Yk0QKKIQOgF4J+uY6haRCIEEqQolRPc3Rn4G/6BC5mqNQfcHCpycbjGbv+NVXlAq/jJ8Q/Zwifrk
+DbVyHeKU/MWyFvc6i/V0z4o6UjzMKSp7beoT7YGCklNCK4mxQRMbfmCDb5nYY/rWY3ffodCwkPB3
+GkC66idGWDxrsXmUIdsxvaaAI1ajCyMYrRPblcDKueV+YZTL+Qa6O75rXJwoJ8w8vacftMtpwptO
+Hvhv/HbJ/xwOo+HDn5O1pP9Ni4ydAAAAAElFTkSuQmCC
+"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="15"
+     width="15" />
+  <image
+     y="81.217247"
+     x="1046.5138"
+     id="sfl"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABHNCSVQICAgIfAhkiAAAAShJREFU
+KJHVkrEvQ1EUh797363wPKIINTRSg8TURCImE4NdYiARo9TiL7B0pqPFYGjSXSRiIOlstDGrEEOV
+Js3ru/cYNEr7QnTzJWf6ne/em3sOp1uBiAi9lHFDKQ6vbiUcmwXhEwesmhzz3hGxzInSKA1Kd2XD
+CQj8GfCS8TKgAUSDeB/lNEz4wtq0JZPexaZKYNKxstGNOiM310SDjygcTiC7kGHSn8K5PvBXuBtY
+5uHlBKXa4hJg+p8qZPe3MW8KFEhkGc/t4AoFPG14jWrshRUuLJgvtzYAo0TQzRDdbAe1YpFEcpT7
+zUWOgzMu62UsYDufDd8+GQBbrfKcz3OgDKX1CKSzoyWLATFxkWBtE1Rc1uJ8g56XRP948i90b8f/
+kKPO4f2Bd30+rbuKMkUnAAAAAElFTkSuQmCC
+"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="15"
+     width="15" />
+  <image
+     y="123.58967"
+     x="1045.1897"
+     id="lfs"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABHNCSVQICAgIfAhkiAAAAPNJREFU
+KJHV0r1KA0EUhuF3xtVUbgqDd+BNScBbSJULENJbWYi9rRhCGiGdhYIQkiaEgEVIoWH8YYObbM6c
+FC6Im2wC2/nBNDPzHOaD4e4sVFWlyAr84TEXnaEujk5AWYsFnAy4eTtlPO9isABUDioEYPEYRMFk
+sAFmOqXl6rzEz+muAJBoko5JL2YjxHQ+z+nNmhtO+cXZGDxP0SUPX1fopj552AKD+Jb7jwaJzvPm
+r2MLTJJHWq5OJC4X/sHKT+93GdF0NV4Xo60QILASU/LfmD1AhX50zXTZo7xf3grDIIR21Rb+JBb1
+O5+3s/M/w0spjlcYk6sT+pCB9QAAAABJRU5ErkJggg==
+"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="15"
+     width="15" />
+  <image
+     y="15.010335"
+     x="1110.0724"
+     id="fsi"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABHNCSVQICAgIfAhkiAAAAVJJREFU
+KJHFkLtKQ0EQhr/dsyE3DeZmSpU8gk+gvWBlq+IFLCx8ABuxEwsLe7URQbGxFHwIwcJGG4PkgsQk
+nByz2bE4iRpUhDT+MMyyM//88w/nCyMiIgwTph5kmMhcSakxhVIOABGFc5oQgtYOpRhALudhxCk6
+HbBWAAEUhUKV5cVLUqkWpVKeo+N5mq1Erx7CWsGET68X4fi1lQt2dg9RSmj7UWq1NKdnc4D7ou1h
+dDwgMX1H0r4gApPjFZZWL1AqVInFAza2TripZmm0Y/S3T45FMZIv87a+TZDWIFA2XR5zbYpfNO6L
+d9T3NrFOf6wemBxGlMMaHxsJ/6vAfhmKEUh48NyBg5rge37orO/Z+H3Pg7huwewDRABf4Mn+0CRg
+ol1N1iVpehr9eUwq3TArYNT7zk15KUy2IdzOvKrv5b+hlcjfXb+Rh2b+L9l2hye/A/qsoOtTUkwk
+AAAAAElFTkSuQmCC
+"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="15"
+     width="15" />
+  <image
+     y="49.437935"
+     x="1106.1001"
+     id="fls"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABHNCSVQICAgIfAhkiAAAASZJREFU
+KJHFkL1KA1EQhb+59ybsqllXEgLaKwo+g29ga6GFrb2P4AvYWAqClZ34Ar6ACAGt0gti8Cfmz83u
+HYskqxINIY0HBoaB7xzOcLUfqaoyyzhfqnJ8XdekvAoKAAKY4aIKnnHNOXBg8AheyeFEn7nvXtDz
+b0R2hY1wB0PwA84U3CgpH4Fa+5zLxiFeM0JbYq+6xFqwjeoXbACXapfH9JZOv4GokugrtfYZgS1i
+xOI15aZ1QmgihEIOL2gBOT0werQV8LBoEAXFk2mCIDBsIoCV4nADUagUyjiPx7Y6xO+D49/q5998
+iaEXhYPOpSZUnka+k6UCH+ugEbggM/SX56lvGszE5G/P8hDbCFfuKne7zWlCx01Ep4z7DZ6Z/F84
+zWaHPwGGJI0b3xQ2AQAAAABJRU5ErkJggg==
+"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="15"
+     width="15" />
+  <image
+     y="90.486206"
+     x="1104.7759"
+     id="fda"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABHNCSVQICAgIfAhkiAAAAWBJREFU
+KJHFkjFLI1EUhb87bxI148oLqIuM3UKasIsgWdAfYCdYKSSV/VZWLthtuf9gS3trFdutso2bLpX1
+QojjOBqZ92auRSAaO9PsgdPd73Lu4XK2H6iqMovDB6c0Vqt6kwiBMJHBUP9RZ7A7AM+UDIbHz48S
+qCp57vAuJ89fbK2lvdlGSiEvc3KdNkDIG63FMY1Gg/V4nVb8lZ3aDnfFHb2nHkmZTM2GVRG+1Ob5
+6A1oSVyrcdTpcP23x89fx7QPvpHcJ/SHfaIyGscWA02Qyz3Rpd+GMBEQKL1nsdXCHh5ycf0Hv7XN
+ycl3hrdDAgnGsDGMkpEEglJxnjnvqDrHvCofNjYI05TRvyEr9RWan5oUDwUucxNP3ayTKg3Z1RXp
+6SndSoWLbpdla99WM4bVCNgIoyHIeEUxGGAWFoiiiCxNecoyrLWo6iQ2AOcdmflJgleB361gZvL/
+wr6YHX4GMBjp/QrEUFIAAAAASUVORK5CYII=
+"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="15"
+     width="15" />
+  <image
+     y="131.53448"
+     x="1103.4518"
+     id="afd"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABHNCSVQICAgIfAhkiAAAASNJREFU
+KJGl0j1Lw3AQx/Fv/k21rZoSWyuKT4OgKEKtLuIkuCgddPY9+RJcFDfXDiKoBRHFSZEiPgwiPlFq
+KYnU2uRcakGJocQf3HLch4Pj2FpNiIgQpPRKLYkZ3ZdyNQkIf0eIdOpMLBiMzXdxfWyh+843ULhd
+MTpnMLUYxy7VOdh45eW2iu6HVEgxMt1BetlEXDjdKXF/buM6AmheWEDT6B+PkcmaRI0QF7tlbk4s
+6jUX0BrFbywkhyNksiaJwTYK+QqFwwoftvMDfUcXwHUEIxUmvRRnYDLG3ZnF0XYR++3TEzVxOKKY
+XUmQmunj6eqd3Poj5eeaL2ri7h6HoV6dvc0iD5dWo+2PmsmthQI/iVI4rW3xiAos/49bvI0ndtzg
++AsFGa0JvH6FBQAAAABJRU5ErkJggg==
+"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="15"
+     width="15" />
+  <g
+     id="reddices"
+     transform="matrix(0.04229948,0,0,0.04229948,23.458026,-219.80593)">
+    <polyline
+       points="2717,519 2717,2220 "
+       style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline3873" />
+    <polyline
+       points="4960,519 4960,2220 "
+       style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline3875" />
+    <polyline
+       points="7205,519 7205,2220 "
+       style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline3877" />
+    <polyline
+       points="9448,519 9448,2220 "
+       style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline3879" />
+    <polyline
+       points="11693,519 11693,2220 "
+       style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline3881" />
+    <rect
+       x="472"
+       y="472"
+       width="13464"
+       height="1842"
+       rx="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect3883" />
+    <g
+       id="reddice1">
+      <polyline
+         id="polyline3885"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="1653,708 1889,944 1889,1795 944,1795 708,1559 " />
+      <polyline
+         id="polyline3897"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="1653,1559 1889,1795 " />
+      <rect
+         id="rect3909"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="708"
+         x="708" />
+      <circle
+         id="circle3921"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="141"
+         cy="1133"
+         cx="1181" />
+    </g>
+    <g
+       id="reddice2">
+      <polyline
+         id="polyline3887"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="4062,850 4299,1086 4299,1937 3354,1937 3118,1700 " />
+      <polyline
+         id="polyline3899"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="4062,1700 4299,1937 " />
+      <rect
+         id="rect3911"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="850"
+         x="3118" />
+      <circle
+         id="circle3923"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1133"
+         cx="3779" />
+      <circle
+         id="circle3925"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1464"
+         cx="3401" />
+    </g>
+    <g
+       id="reddice3">
+      <polyline
+         id="polyline3889"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="6519,614 6755,850 6755,1700 5811,1700 5574,1464 " />
+      <polyline
+         id="polyline3901"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="6519,1464 6755,1700 " />
+      <rect
+         id="rect3913"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="614"
+         x="5574" />
+      <circle
+         id="circle3927"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="803"
+         cx="6330" />
+      <circle
+         id="circle3929"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1039"
+         cx="6094" />
+      <circle
+         id="circle3931"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1275"
+         cx="5858" />
+    </g>
+    <g
+       id="reddice4">
+      <polyline
+         id="polyline3891"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="8267,1086 8503,1322 8503,2173 7559,2173 7322,1937 " />
+      <polyline
+         id="polyline3903"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="8267,1937 8503,2173 " />
+      <rect
+         id="rect3915"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="1086"
+         x="7322" />
+      <circle
+         id="circle3933"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1322"
+         cx="7559" />
+      <circle
+         id="circle3935"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1322"
+         cx="8031" />
+      <circle
+         id="circle3937"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1700"
+         cx="8031" />
+      <circle
+         id="circle3939"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1700"
+         cx="7559" />
+    </g>
+    <g
+       id="reddice5">
+      <polyline
+         id="polyline3893"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="10488,850 10724,1086 10724,1937 9779,1937 9543,1700 " />
+      <polyline
+         id="polyline3905"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="10488,1700 10724,1937 " />
+      <rect
+         id="rect3917"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="850"
+         x="9543" />
+      <circle
+         id="circle3941"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1039"
+         cx="10299" />
+      <circle
+         id="circle3943"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1039"
+         cx="9732" />
+      <circle
+         id="circle3945"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1275"
+         cx="10015" />
+      <circle
+         id="circle3947"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1511"
+         cx="9732" />
+      <circle
+         id="circle3949"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1511"
+         cx="10299" />
+    </g>
+    <g
+       id="reddice6">
+      <polyline
+         id="polyline3895"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="12944,1133 13181,1370 13181,2220 12236,2220 12000,1984 " />
+      <polyline
+         id="polyline3907"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="12944,1984 13181,2220 " />
+      <rect
+         id="rect3919"
+         style="fill:#fd4030;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="1133"
+         x="12000" />
+      <circle
+         id="circle3951"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1748"
+         cx="12188" />
+      <circle
+         id="circle3953"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1748"
+         cx="12472" />
+      <circle
+         id="circle3955"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1748"
+         cx="12755" />
+      <circle
+         id="circle3957"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1370"
+         cx="12188" />
+      <circle
+         id="circle3959"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1370"
+         cx="12472" />
+      <circle
+         id="circle3961"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1370"
+         cx="12755" />
+    </g>
+  </g>
+  <g
+     id="bluedices"
+     transform="matrix(0.04229948,0,0,0.04229948,19.485612,-127.11628)">
+    <polyline
+       points="2717,519 2717,2220 "
+       style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline6" />
+    <polyline
+       points="4960,519 4960,2220 "
+       style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline8" />
+    <polyline
+       points="7205,519 7205,2220 "
+       style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline10" />
+    <polyline
+       points="9448,519 9448,2220 "
+       style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline12" />
+    <polyline
+       points="11693,519 11693,2220 "
+       style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline14" />
+    <rect
+       x="472"
+       y="472"
+       width="13464"
+       height="1842"
+       rx="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect16" />
+    <g
+       id="bluedice1">
+      <polyline
+         id="bluexdice1"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="1653,708 1889,944 1889,1795 944,1795 708,1559 " />
+      <polyline
+         id="polyline30"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="1653,1559 1889,1795 " />
+      <rect
+         id="rect42"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="708"
+         x="708" />
+      <circle
+         id="circle54"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="141"
+         cy="1133"
+         cx="1181" />
+    </g>
+    <g
+       id="bluedice2">
+      <polyline
+         id="bluexdice2"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="4062,850 4299,1086 4299,1937 3354,1937 3118,1700 " />
+      <polyline
+         id="polyline32"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="4062,1700 4299,1937 " />
+      <rect
+         id="rect44"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="850"
+         x="3118" />
+      <circle
+         id="circle56"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1133"
+         cx="3779" />
+      <circle
+         id="circle58"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1464"
+         cx="3401" />
+    </g>
+    <g
+       id="bluedice3">
+      <polyline
+         id="bluexdice3"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="6519,614 6755,850 6755,1700 5811,1700 5574,1464 " />
+      <polyline
+         id="polyline34"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="6519,1464 6755,1700 " />
+      <rect
+         id="rect46"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="614"
+         x="5574" />
+      <circle
+         id="circle60"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="803"
+         cx="6330" />
+      <circle
+         id="circle62"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1039"
+         cx="6094" />
+      <circle
+         id="circle64"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1275"
+         cx="5858" />
+    </g>
+    <g
+       id="bluedice4">
+      <polyline
+         id="bluexdice4"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="8267,1086 8503,1322 8503,2173 7559,2173 7322,1937 " />
+      <polyline
+         id="polyline36"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="8267,1937 8503,2173 " />
+      <rect
+         id="rect48"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="1086"
+         x="7322" />
+      <circle
+         id="circle66"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1322"
+         cx="7559" />
+      <circle
+         id="circle68"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1322"
+         cx="8031" />
+      <circle
+         id="circle70"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1700"
+         cx="8031" />
+      <circle
+         id="circle72"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1700"
+         cx="7559" />
+    </g>
+    <g
+       id="bluedice5">
+      <polyline
+         id="bluexdice5"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="10488,850 10724,1086 10724,1937 9779,1937 9543,1700 " />
+      <polyline
+         id="polyline38"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="10488,1700 10724,1937 " />
+      <rect
+         id="rect50"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="850"
+         x="9543" />
+      <circle
+         id="circle74"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1039"
+         cx="10299" />
+      <circle
+         id="circle76"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1039"
+         cx="9732" />
+      <circle
+         id="circle78"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1275"
+         cx="10015" />
+      <circle
+         id="circle80"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1511"
+         cx="9732" />
+      <circle
+         id="circle82"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1511"
+         cx="10299" />
+    </g>
+    <g
+       id="bluedice6">
+      <polyline
+         id="bluexdice6"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="12944,1133 13181,1370 13181,2220 12236,2220 12000,1984 " />
+      <polyline
+         id="polyline40"
+         style="fill:none;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         points="12944,1984 13181,2220 " />
+      <rect
+         id="rect52"
+         style="fill:#87cfff;stroke:#000000;stroke-width:13.84611034;stroke-linecap:butt;stroke-linejoin:miter"
+         rx="0"
+         height="850"
+         width="944"
+         y="1133"
+         x="12000" />
+      <circle
+         id="circle84"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1748"
+         cx="12188" />
+      <circle
+         id="circle86"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1748"
+         cx="12472" />
+      <circle
+         id="circle88"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1748"
+         cx="12755" />
+      <circle
+         id="circle90"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1370"
+         cx="12188" />
+      <circle
+         id="circle92"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1370"
+         cx="12472" />
+      <circle
+         id="circle94"
+         style="fill:#000000;stroke:#000000;stroke-width:13.84611034"
+         r="106"
+         cy="1370"
+         cx="12755" />
+    </g>
+  </g>
+</svg>
