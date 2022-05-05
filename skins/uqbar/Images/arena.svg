@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5e -->
+<!-- CreationDate: Tue Dec 19 11:50:21 2017 -->
+<!-- Magnification: 1.050 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="6.0in" height="4.6in"
+	viewBox="449 449 7142 5479">
+<g style="stroke-width:.025in; fill:none">
+<!-- Line: box -->
+<!--  EXXPORT 751x575 svg  -->
+<rect x="472" y="472" width="7096" height="5433" rx="0" 
+style="stroke:#803000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b46100;
+"/>
+<!-- Line -->
+<polygon points="4015,472
+7559,472
+7559,5905
+4015,5905
+4157,5622
+3874,5480
+4157,5149
+4015,4771
+4346,4582
+4015,4251
+3685,3968
+4015,3779
+4299,4062
+4346,3685
+4015,3448
+3732,3590
+3732,3307
+3968,3165
+3921,2834
+4110,2834
+4015,2409
+3826,2362
+3874,1984
+4110,1842
+4110,1559
+3921,1464
+3968,1228
+4110,1133
+4110,897
+3968,755
+4157,708
+4015,472
+" style="stroke:#803000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#00b000;
+"/>
+<!-- Line: box -->
+<rect x="472" y="5811" width="7096" height="94" rx="0" 
+style="stroke:#803000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffd600;
+"/>
+<g style="stroke:#803000; stroke-width:1" >
+<defs>
+<pattern id="tile1" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 100 0 0 100" />
+<path d="M 200 0 0 200" />
+<path d="M 200 100 100 200" />
+</pattern>
+</defs>
+</g>
+<rect x="472" y="5811" width="7096" height="94" rx="0" 
+style="stroke:#803000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:url(#tile1);
+"/>
+<!-- Line: box -->
+<rect x="472" y="472" width="7096" height="94" rx="0" 
+style="stroke:#803000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffd600;
+"/>
+<g style="stroke:#803000; stroke-width:1" >
+<defs>
+<pattern id="tile2" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 100 0 0 100" />
+<path d="M 200 0 0 200" />
+<path d="M 200 100 100 200" />
+</pattern>
+</defs>
+</g>
+<rect x="472" y="472" width="7096" height="94" rx="0" 
+style="stroke:#803000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:url(#tile2);
+"/>
+</g>
+</svg>
