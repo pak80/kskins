@@ -1,0 +1,15 @@
+SOLSTAR+
+
+by Paul Kinsler 2017, 2018
+
+A non-standard map/skin for ksirk, loosely representing the network of 
+habitable stars within a 20 light year neighbourhood of our \n Sun. It 
+is based on the map that can be found at
+
+http://www.projectrho.com/public_html/starmaps/mapindex.php 
+
+but I have added an extra link via "Wormspace" between two start to 
+improve play. It is in my default abstract (disk/arrow) visual style.
+In contrast to the standard Solstar map, each system has an additional
+leaf node representing the habitable planet, as distinct from that
+wider star system.
